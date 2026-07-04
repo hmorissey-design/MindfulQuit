@@ -1,0 +1,6 @@
+{
+  "name": "Smoking Cessation Tracker",
+  "description": "A 3-month gradual reduction tracker designed to empower you to quit smoking. Includes a Mindful Pause urge chamber, cost savings calculator, and health milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
